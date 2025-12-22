@@ -1,1 +1,1 @@
-allow=1&time=200
+allow=1&time=2000
