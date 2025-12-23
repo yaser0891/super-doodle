@@ -1,1 +1,1 @@
-allow=1&time=40
+allow=1&time=50
